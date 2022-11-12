@@ -4,3 +4,4 @@
 Made with:
 - NextJS,
 - Firebase
+- TailwindCSS
