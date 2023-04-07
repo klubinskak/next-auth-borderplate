@@ -1,4 +1,4 @@
-# next-auth-firebase
+# next-auth-firebase-borderplate
  Sign in process with: facebook, google.
 
 Made with:
